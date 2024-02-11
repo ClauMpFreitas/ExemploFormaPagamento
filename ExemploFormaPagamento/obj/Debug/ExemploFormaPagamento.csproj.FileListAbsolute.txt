@@ -1,0 +1,24 @@
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\ExemploFormaPagamento\ExemploFormaPagamento\bin\Debug\ExemploFormaPagamento.exe.config
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\ExemploFormaPagamento\ExemploFormaPagamento\bin\Debug\ExemploFormaPagamento.exe
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\ExemploFormaPagamento\ExemploFormaPagamento\bin\Debug\ExemploFormaPagamento.pdb
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\ExemploFormaPagamento\ExemploFormaPagamento\obj\Debug\ExemploFormaPagamento.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\ExemploFormaPagamento\ExemploFormaPagamento\obj\Debug\ExemploFormaPagamento.MainForm.resources
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\ExemploFormaPagamento\ExemploFormaPagamento\obj\Debug\ExemploFormaPagamento.csproj.GenerateResource.Cache
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\ExemploFormaPagamento\ExemploFormaPagamento\obj\Debug\ExemploFormaPagamento.exe
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\ExemploFormaPagamento\ExemploFormaPagamento\obj\Debug\ExemploFormaPagamento.pdb
+E:\Nova pasta\Projetos\SharpDevelop Projects\ExemploFormaPagamento\ExemploFormaPagamento\bin\Debug\ExemploFormaPagamento.exe.config
+E:\Nova pasta\Projetos\SharpDevelop Projects\ExemploFormaPagamento\ExemploFormaPagamento\bin\Debug\ExemploFormaPagamento.exe
+E:\Nova pasta\Projetos\SharpDevelop Projects\ExemploFormaPagamento\ExemploFormaPagamento\bin\Debug\ExemploFormaPagamento.pdb
+E:\Nova pasta\Projetos\SharpDevelop Projects\ExemploFormaPagamento\ExemploFormaPagamento\obj\Debug\ExemploFormaPagamento.csprojResolveAssemblyReference.cache
+E:\Nova pasta\Projetos\SharpDevelop Projects\ExemploFormaPagamento\ExemploFormaPagamento\obj\Debug\ExemploFormaPagamento.MainForm.resources
+E:\Nova pasta\Projetos\SharpDevelop Projects\ExemploFormaPagamento\ExemploFormaPagamento\obj\Debug\ExemploFormaPagamento.csproj.GenerateResource.Cache
+E:\Nova pasta\Projetos\SharpDevelop Projects\ExemploFormaPagamento\ExemploFormaPagamento\obj\Debug\ExemploFormaPagamento.exe
+E:\Nova pasta\Projetos\SharpDevelop Projects\ExemploFormaPagamento\ExemploFormaPagamento\obj\Debug\ExemploFormaPagamento.pdb
+C:\Users\claud\Documents\ExemploFormaPagamento\ExemploFormaPagamento\bin\Debug\ExemploFormaPagamento.exe.config
+C:\Users\claud\Documents\ExemploFormaPagamento\ExemploFormaPagamento\bin\Debug\ExemploFormaPagamento.exe
+C:\Users\claud\Documents\ExemploFormaPagamento\ExemploFormaPagamento\bin\Debug\ExemploFormaPagamento.pdb
+C:\Users\claud\Documents\ExemploFormaPagamento\ExemploFormaPagamento\obj\Debug\ExemploFormaPagamento.csprojResolveAssemblyReference.cache
+C:\Users\claud\Documents\ExemploFormaPagamento\ExemploFormaPagamento\obj\Debug\ExemploFormaPagamento.MainForm.resources
+C:\Users\claud\Documents\ExemploFormaPagamento\ExemploFormaPagamento\obj\Debug\ExemploFormaPagamento.csproj.GenerateResource.Cache
+C:\Users\claud\Documents\ExemploFormaPagamento\ExemploFormaPagamento\obj\Debug\ExemploFormaPagamento.exe
+C:\Users\claud\Documents\ExemploFormaPagamento\ExemploFormaPagamento\obj\Debug\ExemploFormaPagamento.pdb
